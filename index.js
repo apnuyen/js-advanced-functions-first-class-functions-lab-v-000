@@ -1,14 +1,18 @@
 // Code your solution in this file!
-returnFirstTwoDrivers() { }
+const firstTwoDrivers = returnFirstTwoDrivers() { }
 
 returnLastTwoDrivers() { }
 
 selectingDrivers() { }
 
 createFareMultiplier() {
-  
+
 }
 
 fareDoubler() {
-  
+
 }
+
+fareTripler() { }
+
+selectDifferentDrivers() { }
